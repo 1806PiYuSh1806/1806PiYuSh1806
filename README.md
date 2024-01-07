@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://1806PiYuSh1806.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://1806PiYuSh1806.io)
 <h1 align="center">Hi 👋, I'm Piyush Upadhyay</h1>
 <h3 align="center">An independent, self-motivated and detail-oriented undergraduate with a positive attitude.</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_piyusshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_piyusshhh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
